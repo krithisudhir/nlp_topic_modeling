@@ -396,3 +396,16 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+.venv
+/venv
+
+*.exc 
+*.bib
+*.rev
+*.adj
+*.adv
+*.noun
+*.sense
+*.verb
+/wordnet
